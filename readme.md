@@ -1,7 +1,6 @@
 # Herramientas Computacionales
 Parcial Final Herramientas Computacionales.
 
-[Solucion del parcial en c](tienda.c)
 
 ### Problema 1
 Para recuperarse un poco del tiempo en cuarentena, las cafeterias de la universidad se encuentran dando descuentos a la comunidad estudiantil y dependiendo si es estudiante o profesor, tienen descuentos diferentes. Se desea saber entonces por cada compra cuánto debe pagar el usuario en caja. Para ello:
@@ -12,7 +11,7 @@ Para recuperarse un poco del tiempo en cuarentena, las cafeterias de la universi
 
 
 ### Algoritmo Solución
-Dar click aqui
+La solucion se encuentra en el siguiente [archivo](tienda.c)
 ##### Entradas
 - Cedula y Rol de la persona
 - Codigo producto a comprar
