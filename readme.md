@@ -20,5 +20,9 @@ La solucion se encuentra en el siguiente [archivo](tienda.c)
 
 ##### Salidas
 Se debera imprimir el valor a pagar por sus productos de la siguiente forma:
-- "El **Rol** con cedula **Numero**
+- "El **Rol** con cedula **Numero**, debe pagar **Valor** por el producto **Codigo**"
+
+##### ¿Cómo se calcula?
+Despues de recibir los datos del cliente (Cedula,rol, CodProducto,Cantidad), se calcula el precio total de la compra usando el precio del producto, luego este se multiplica por la cantidad escogida. Despues, este valor se multiplica por el porcentaje de descuento que aplique de acuerdo con el rol del cliente y este valor se guarda. Por ultimo, al precio total se le resta el valor de descuento previmante calculado y se imprime el resultado de la orden de compra.
+
 
