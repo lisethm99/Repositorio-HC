@@ -1,0 +1,10 @@
+PREGUNTAS
+1. Qué tipo de errores se presentaron o se pueden presentar con su implementación al problema? 
+- Puede ocurrir que no se ingresen los datos pedidos con el orden correcto, eso haría que los cálculos totales de la compra del nuestro cliente tanto Estudiante como Profesor tenga un total tanto en su descuento como en su pago total de la factura erróneo.
+- Como utilizamos estructuras de datos, tuvimos el inconveniente de acceder a nuestras variables que nos guardaban la información del usuario registrada por teclado, finalmente este obstáculo lo pudimos pasar ,para que así quede de manera ordenada y repetitiva cada cliente nuevo en nuestra tienda.
+- Otra de los errores que tuvimos fue al momento de imprimir nuestra factura ya que nos tocó jugar un poco con el IDE de C para que su resultado fuera mucho más agradable  a la vista del usuario 
+- Hacer los cálculos puede ser un poco más dispendioso debido a que la información del usuario la tenemos ligada con la del producto y finalmente nuestro programa termina cuando ya se ha ingresado todos los datos de la cantidad de productos que deseamos llevar.
+
+2. Que estrategias podría usar para solucionar estos errores?
+- Utilizar apuntadores para no tener problemas al momento de utilizar mis variables.
+- Manejar mejor los conceptos y funciones al llamarlas en el código 
